@@ -2,7 +2,7 @@ using System.Linq;
 using UnityEngine;
 using System;
 
-namespace ZHTgames.DanzaCultura.Components{
+namespace ZHTgames.Tools{
 	///<summary>
 	///Class in charge of making transitions to canvas group
 	///</summary>

@@ -1457,12 +1457,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff74dca10e726f24aa8cd5895ab447e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameScreen: {fileID: 4780968184850659828}
+  gameScreen: {fileID: 4780968184850659828}
+  scoreDisplayer: {fileID: 383132737}
   lifeReferences:
   - {fileID: 1915026244515256245}
   - {fileID: 4557141676499665707}
   - {fileID: 8021280941034105774}
-  PauseScreen: {fileID: 1115658170096646133}
+  pauseScreen: {fileID: 1115658170096646133}
 --- !u!1 &5724467284878654196
 GameObject:
   m_ObjectHideFlags: 0
